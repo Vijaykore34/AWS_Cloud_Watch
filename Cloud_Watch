@@ -1,0 +1,37 @@
+*******************
+Create an Instance
+********************
+
+> 1.Launch the Instance named webserver
+secuity group ssh and http
+Bootstrap the instance
+
+> 2.Launch another Instance
+secuity group ssh and http
+Bootstrap the instance
+
+> Monitoring in bootam
+
+> Go in cloudwatch
+
+>Go in dashboard creat dashboard
+named my bashboard
+1.text weg keep only heading named cpu utilisation
+2. line weg metrics next ec2 per instance 2 number cpu unilisation 
+3. stack weg mertrics  ec2 per isntance matrics 2 number cpu utili
+4. number weg 2 number
+5. gauch ec2 options 0 to 100
+6. bar graph matrics ec2 per instance mertrics 2 and webser
+7. pie 
+8. custom 
+
+> set alarms
+all alarms create select maricts ec2 per instance materics cpu uili
+condtio static <=90
+
+> all metrics
+2 number cpu utilisation 
+
+> events briege
+
+
